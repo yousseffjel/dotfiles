@@ -1,0 +1,14 @@
+bat
+eza
+curl
+git
+neovim
+python@3.13
+zsh-syntax-highlighting
+zsh-autosuggestions
+zoxide
+wget
+starship
+syncthing
+tmux
+trash-cli
