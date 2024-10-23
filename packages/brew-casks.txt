@@ -17,3 +17,4 @@ vlc
 keka
 font-meslo-lg-nerd-font
 font-anonymous-pro
+virtualbox
