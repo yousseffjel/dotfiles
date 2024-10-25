@@ -2,7 +2,7 @@ arc
 google-chrome
 alacritty
 visual-studio-code
-notion
+todoist
 notion-calendar
 spotify
 raycast
