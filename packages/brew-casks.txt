@@ -2,8 +2,6 @@ chromium
 alacritty
 visual-studio-code
 todoist
-notion-calendar
-spotify
 raycast
 rectangle
 alt-tab
