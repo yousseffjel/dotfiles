@@ -16,4 +16,4 @@ font-meslo-lg-nerd-font
 font-anonymous-pro
 virtualbox
 free-download-manager
-
+onlyoffice
