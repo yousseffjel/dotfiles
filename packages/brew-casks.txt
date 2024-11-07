@@ -18,3 +18,4 @@ virtualbox
 free-download-manager
 onlyoffice
 zoom
+vox
