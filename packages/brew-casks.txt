@@ -1,5 +1,4 @@
-arc
-google-chrome
+chromium
 alacritty
 visual-studio-code
 todoist
