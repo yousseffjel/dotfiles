@@ -17,3 +17,4 @@ font-anonymous-pro
 virtualbox
 free-download-manager
 onlyoffice
+zoom
